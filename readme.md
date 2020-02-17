@@ -1,11 +1,8 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
+# Boston Bluebikes Data Analysis
 
 ## Dataset
 
 Bluebikes is Metro Boston's public bike share program, with over 2,500+ bikes and more than 260+ stations across Boston, Brookline, Cambridge and Somerville. I downloaded its Q2 data (April, May and June) to explore bike usage in this area.
-
 
 ## Summary of Findings
 
@@ -16,7 +13,6 @@ My main findings are listed below:
 4. Subscribers use bikes more often during peak hours on weekdays while customers use bike more often in the afternoon on weekends. 
 5. Subscribers usually take short rides around 5-10 minutes while customers prefer to take longer ride.
 6. All of the top 10 subscriber routes have either a start station or an end station at MIT; 9 of the top 10 customer routes have the same start station and end station.
-
 
 ## Key Insights for Presentation
 
